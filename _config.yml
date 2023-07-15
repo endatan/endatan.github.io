@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enda Tan's Homepage"
+title                    : "Enda Tan"
 title_separator          : "-"
 name                     : &name "Enda Tan"
 description              : &description "personal description"
