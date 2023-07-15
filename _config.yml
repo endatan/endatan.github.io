@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ET's Homepage"
+title                    : "Enda Tan's Homepage"
 title_separator          : "-"
-name                     : &name "ET"
+name                     : &name "Enda Tan"
 description              : &description "personal description"
 url                      : https://adeietan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ET"
+  name             : "Enda Tan"
   avatar           : "Profile.jpg"
   bio              : "Developmental Psychologist"
   location         :
