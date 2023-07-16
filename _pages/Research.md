@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Are infants’ responses to helping/hindering events social in nature?
+# What is the nature of early sociomoral evaluations? Are they based on mental state understanding?
 
 Woo, B. M., **Tan, E.**, Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. _Trends in Cognitive Sciences_, 27(1), 17-29. doi: 10.1016/j.tics.2022.10.003 [[PDF]](https://endatan.github.io/files/tics2023.pdf)
 
@@ -18,7 +18,7 @@ Woo, B. M., **Tan, E.**, & Hamlin, J. K. (2021). Theory of mind in context: Ment
 
 **Tan, E.**, Mikami, A. Y., & Hamlin, J. K. (2018). Do infant sociomoral evaluation and action studies predict preschool social and behavioral adjustment? _Journal of Experimental Child Psychology_, 176, 39-54. doi: 10.1016/j.jecp.2018.07.003 [[PDF]](https://endatan.github.io/files/jecp2018.pdf) <br /><br />
 
-# The role of affective processes in early sociomoral functioning
+# Are emotional processes involved in early sociomoral functioning?
 
 **Tan, E.**, & Hamlin, J. K. (revise and resubmit). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures.
 
@@ -28,7 +28,8 @@ Drew, R., **Tan, E.**, Yuen, F., & Hamlin, J. K. (2023). We aren't especially fe
 
 **Tan, E.**, Mikami, A. Y., Luzhanska, A., & Hamlin, J. K. (2021). The homogeneity and heterogeneity of moral functioning in preschool. _Child Development_, 92(3), 959-975. doi: 10.1111/cdev.13458 [[PDF]](https://endatan.github.io/files/cd2021.pdf) <br /><br />
 
-# The long-term implications of early individual differences
+# What are the long-term implications of early individual differences?
+
 **Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (revise and resubmit). Resting brain activity in early childhood predicts IQ at 18 years.
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [[PDF]](https://endatan.github.io/files/ds2023.pdf)
