@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# The nature of early sociomoral evaluations
+# Are infants’ responses to helping/hindering events social in nature?
 
 Woo, B. M., **Tan, E.**, Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. _Trends in Cognitive Sciences_, 27(1), 17-29. doi: 10.1016/j.tics.2022.10.003 [[PDF]](https://endatan.github.io/files/tics2023.pdf)
 
