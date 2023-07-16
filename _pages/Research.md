@@ -18,7 +18,7 @@ Woo, B. M., **Tan, E.**, & Hamlin, J. K. (2021). Theory of mind in context: Ment
 
 **Tan, E.**, Mikami, A. Y., & Hamlin, J. K. (2018). Do infant sociomoral evaluation and action studies predict preschool social and behavioral adjustment? _Journal of Experimental Child Psychology_, 176, 39-54. doi: 10.1016/j.jecp.2018.07.003 [[PDF]](https://endatan.github.io/files/jecp2018.pdf) <br /><br />
 
-# Are emotional processes implicated in early sociomoral evaluations and prosocial behaviors?
+# What is the role of emotional processes in early sociomoral evaluations and prosocial behaviors?
 
 **Tan, E.**, & Hamlin, J. K. (revise and resubmit). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures.
 
