@@ -7,6 +7,8 @@ author_profile: true
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+**Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_
+
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [[PDF]](https://endatan.github.io/files/ds2023.pdf)
 
 Conte, S., Richards, J. E., Fox, N. A., Valadez, E. A., McSweeney, M., **Tan, E.**, Pine, D. S., Winkler, A. M., Liuzzi, L., Cardinale, E. M., White, L. K., Buzzell, G. A. (2023). Multimodal study of the neural sources of error monitoring in adolescents and adults. _Psychophysiology_, e14336. doi: 10.1111/psyp.14336 [[PDF]](https://endatan.github.io/files/p2023.pdf)
@@ -39,8 +41,6 @@ Yi, L., **Tan, E.**, Fan, Y., Liu, Y., & Zhou, G. (2014). Autism spectrum disord
 Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensitivity. In L. Jensen (Ed.), _The Oxford Handbook of Moral Development_ (pp. 267-287). Oxford, UK: Oxford University Press. [[PDF]](https://endatan.github.io/files/oh2020.pdf)<br /><br />
 
 # MANUSCRIPTS UNDER REVIEW AND IN PREPARATION
-**Tan, E.**, & Hamlin, J. K. (revise and resubmit). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures.
-
 **Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (revise and resubmit). Resting brain activity in early childhood predicts IQ at 18 years.
 
 **Tan, E.**, S., Morales, Troller-Renfree, S., McSweeney, M., Antúnez, M., & Fox, N. A. (in preparation) Theta activity and cognitive functioning: Integrating findings from developmental resting-state and task-related electroencephalogram (EEG) research.
