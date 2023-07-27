@@ -7,7 +7,7 @@ author_profile: true
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-**Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology [📄](https://osf.io/y9mc4/)
+**Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_ [📄](https://osf.io/y9mc4/)
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13427)
 
