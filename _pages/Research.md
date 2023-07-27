@@ -20,7 +20,7 @@ Woo, B. M., **Tan, E.**, & Hamlin, J. K. (2021). Theory of mind in context: Ment
 
 # What is the role of emotional processes in early sociomoral evaluations and prosocial behaviors?
 
-**Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_
+**Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology [📄](https://osf.io/y9mc4/)
 
 Drew, R., **Tan, E.**, Yuen, F., & Hamlin, J. K. (2023). We aren't especially fearful apes, and fearful apes aren't especially prosocial (Commentary on Grossmann, 2022: The human fear paradox: Affective origins of cooperative care). _Behavioral and Brain Sciences_, 46, E60. doi:10.1017/S0140525X22001807 [📄](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/we-arent-especially-fearful-apes-and-fearful-apes-arent-especially-prosocial/F60C5B9CE3FF384CA25CEA1C496A9AB2)
 
