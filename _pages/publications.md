@@ -7,6 +7,8 @@ author_profile: true
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
+**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (in press). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_
+
 **Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_[📄](https://osf.io/y9mc4/) 
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13427)
@@ -41,7 +43,6 @@ Yi, L., **Tan, E.**, Fan, Y., Liu, Y., & Zhou, G. (2014). Autism spectrum disord
 Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensitivity. In L. Jensen (Ed.), _The Oxford Handbook of Moral Development_ (pp. 267-287). Oxford, UK: Oxford University Press. [📄](https://academic.oup.com/edited-volume/28145/chapter-abstract/212921528?redirectedFrom=fulltext)<br /><br />
 
 # MANUSCRIPTS UNDER REVIEW AND IN PREPARATION
-**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (revise and resubmit). Resting brain activity in early childhood predicts IQ at 18 years.
 
 **Tan, E.**, S., Morales, Troller-Renfree, S., McSweeney, M., Antúnez, M., & Fox, N. A. (in preparation) Theta activity and cognitive functioning: Integrating findings from developmental resting-state and task-related electroencephalogram (EEG) research.
 
