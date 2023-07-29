@@ -42,7 +42,7 @@ Yi, L., **Tan, E.**, Fan, Y., Liu, Y., & Zhou, G. (2014). Autism spectrum disord
 # BOOK CHAPTERS
 Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensitivity. In L. Jensen (Ed.), _The Oxford Handbook of Moral Development_ (pp. 267-287). Oxford, UK: Oxford University Press. [📄](https://academic.oup.com/edited-volume/28145/chapter-abstract/212921528?redirectedFrom=fulltext)<br /><br />
 
-# MANUSCRIPTS UNDER REVIEW AND IN PREPARATION
+# MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
 
 **Tan, E.**, S., Morales, Troller-Renfree, S., McSweeney, M., Antúnez, M., & Fox, N. A. (in preparation) Theta activity and cognitive functioning: Integrating findings from developmental resting-state and task-related electroencephalogram (EEG) research.
 
