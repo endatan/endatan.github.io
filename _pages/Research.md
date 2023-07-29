@@ -30,7 +30,7 @@ Drew, R., **Tan, E.**, Yuen, F., & Hamlin, J. K. (2023). We aren't especially fe
 
 # What are the long-term implications of early individual differences?
 
-**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (revise and resubmit). Resting brain activity in early childhood predicts IQ at 18 years.
+**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (in press). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13427)
 
