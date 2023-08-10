@@ -7,7 +7,7 @@ author_profile: true
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-**Tan, E.**, & Hamlin, J. K. (in press). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_[📄](https://osf.io/y9mc4/) 
+**Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. doi:10.1016/j.jecp.2023.105757_[📄](https://authors.elsevier.com/a/1hZJz51Y-Pttx)
 
 **Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://authors.elsevier.com/sd/article/S1878-9293(23)00092-0)
 
