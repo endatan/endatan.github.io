@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# What is the nature of early sociomoral evaluations? Are they based on mental state understanding?
+# What is the nature of infants’ responses to prosocial/antisocial events? Are these responses based on mental state understanding?
 
 Woo, B. M., **Tan, E.**, Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. _Trends in Cognitive Sciences_, 27(1), 17-29. doi:10.1016/j.tics.2022.10.003 [📄](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00264-9?dgcid=raven_jbs_etoc_email)
 
