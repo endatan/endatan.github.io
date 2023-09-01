@@ -18,11 +18,13 @@ Woo, B. M., **Tan, E.**, & Hamlin, J. K. (2021). Theory of mind in context: Ment
 
 **Tan, E.**, Mikami, A. Y., & Hamlin, J. K. (2018). Do infant sociomoral evaluation and action studies predict preschool social and behavioral adjustment? _Journal of Experimental Child Psychology_, 176, 39-54. doi:10.1016/j.jecp.2018.07.003 [📄](https://www.sciencedirect.com/science/article/pii/S0022096518300687) <br /><br />
 
-# What is the role of emotional processes in early sociomoral evaluations and prosocial behaviors?
+# What are the roles of emotion-related processes in early sociomoral evaluations and prosocial behaviors?
 
 **Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. doi:10.1016/j.jecp.2023.105757 [📄](https://authors.elsevier.com/a/1hZJz51Y-Pttx)
 
 Drew, R., **Tan, E.**, Yuen, F., & Hamlin, J. K. (2023). We aren't especially fearful apes, and fearful apes aren't especially prosocial (Commentary on Grossmann, 2022: The human fear paradox: Affective origins of cooperative care). _Behavioral and Brain Sciences_, 46, E60. doi:10.1017/S0140525X22001807 [📄](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/we-arent-especially-fearful-apes-and-fearful-apes-arent-especially-prosocial/F60C5B9CE3FF384CA25CEA1C496A9AB2)
+
+**Tan, E.**, & Hamlin, J. K. (2022). Infants’ neural responses to helping and hindering scenarios. _Developmental Cognitive Neuroscience_, 54, 101095. doi:10.1016/j.dcn.2022.101095 [📄](https://www.sciencedirect.com/science/article/pii/S1878929322000391)
 
 **Tan, E.**, & Hamlin, J. K. (2022). Mechanisms of social evaluation in infancy: A preregistered exploration of infants’ eye-movement and pupillary responses to prosocial and antisocial events. _Infancy_, 27(2), 255-276. doi:10.1111/infa.12447 [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/infa.12447)
 
