@@ -30,7 +30,7 @@ Drew, R., **Tan, E.**, Yuen, F., & Hamlin, J. K. (2023). We aren't especially fe
 
 **Tan, E.**, Mikami, A. Y., Luzhanska, A., & Hamlin, J. K. (2021). The homogeneity and heterogeneity of moral functioning in preschool. _Child Development_, 92(3), 959-975. doi:10.1111/cdev.13458 [📄](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13458) <br /><br />
 
-# What are the long-term implications of early individual differences?
+# What are the long-term implications of socially relevant early individual differences?
 
 **Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://authors.elsevier.com/sd/article/S1878-9293(23)00092-0)
 
