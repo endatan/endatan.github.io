@@ -44,6 +44,6 @@ Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensit
 
 # MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
 
-**Tan, E.**, S., Morales, Troller-Renfree, S., McSweeney, M., Antúnez, M., & Fox, N. A. (in preparation) Theta activity and cognitive functioning: Integrating findings from developmental resting-state and task-related electroencephalogram (EEG) research.
+**Tan, E.**, Troller-Renfree, S., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (in preparation) Theta activity and cognitive functioning: Integrating findings from developmental resting-state and task-related electroencephalogram (EEG) research.
 
 **Tan, E.** *, Dhaliwal, J. *, Van de Vondervoort, J. W., & Hamlin, J. K. (in preparation). Children show more positive facial responses after sharing resources with others. (*equal author contribution)<br /><br />
