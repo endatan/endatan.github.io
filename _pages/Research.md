@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# What is the nature of infants’ responses to prosocial/antisocial events? Are these responses based on social processing?
+# Are infants’ responses to prosocial and antisocial events based on perceptual or social processing?
 
 Woo, B. M., **Tan, E.**, Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. _Trends in Cognitive Sciences_, 27(1), 17-29. doi:10.1016/j.tics.2022.10.003 [📄](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00264-9?dgcid=raven_jbs_etoc_email)
 
@@ -30,7 +30,7 @@ Drew, R., **Tan, E.**, Yuen, F., & Hamlin, J. K. (2023). We aren't especially fe
 
 **Tan, E.**, Mikami, A. Y., Luzhanska, A., & Hamlin, J. K. (2021). The homogeneity and heterogeneity of moral functioning in preschool. _Child Development_, 92(3), 959-975. doi:10.1111/cdev.13458 [📄](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13458) <br /><br />
 
-# What are the long-term implications of socially relevant early individual differences?
+# How are early differences in social responses and contextual factors related to long-term outcomes?
 
 **Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://authors.elsevier.com/sd/article/S1878-9293(23)00092-0)
 
