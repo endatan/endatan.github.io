@@ -7,9 +7,9 @@ author_profile: true
 
 # PEER-REVIEWED JOURNAL ARTICLES
 
-**Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. doi:10.1016/j.jecp.2023.105757 [📄](https://authors.elsevier.com/a/1hZJz51Y-Pttx)
+**Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. doi:10.1016/j.jecp.2023.105757 [📄](https://doi.org/10.1016/j.jecp.2023.105757)
 
-**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://authors.elsevier.com/sd/article/S1878-9293(23)00092-0)
+**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://doi.org/10.1016/j.dcn.2023.101287)
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13427)
 
