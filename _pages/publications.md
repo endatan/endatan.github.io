@@ -44,7 +44,7 @@ Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensit
 
 # MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
 
-**Tan, E.**, Troller-Renfree, S., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (under review). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research.
+**Tan, E.**, Troller-Renfree, S., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (under review). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research.[📄](https://osf.io/egb6w/)
 
 Antúnez, M., McSweeney, M., Zeytinoglu, S., **Tan, E.**, Zeanah, C. H., Nelson, C. A., & Fox, N. A. (under review). Exploring background aperiodic EEG activity in the Bucharest Early Intervention Project.
 
