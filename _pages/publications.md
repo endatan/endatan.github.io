@@ -48,6 +48,6 @@ Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensit
 
 # MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
 
-Zeytinoglu, S., Buzzell, G., Morales, S., Valadez, E., **Tan, E.**, McSweeney, M., Degnan, K., Chronis-Tuscano, A., Hendeson, H., Pine, D. S., & Fox, N. A. (under review). A neurobehavioral mechanism linking parent personality and early temperament with social anxiety in young adulthood.
+**Tan, E.**, Dhaliwal, J. , Van de Vondervoort, J. W., Aknin, L. B., & Hamlin, J. K. (in preparation). Toddlers show more positive facial responses after sharing resources with others. 
 
-**Tan, E.***, Dhaliwal, J. *, Van de Vondervoort, J. W., Aknin, L. B., & Hamlin, J. K. (in preparation). Toddlers show more positive facial responses after sharing resources with others. (*equal author contribution)
+Zeytinoglu, S., Buzzell, G., Morales, S., Valadez, E., **Tan, E.**, McSweeney, M., Degnan, K., Chronis-Tuscano, A., Hendeson, H., Pine, D. S., & Fox, N. A. (under review). A neurobehavioral mechanism linking parent personality and early temperament with social anxiety in young adulthood.
