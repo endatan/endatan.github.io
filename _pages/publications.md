@@ -7,7 +7,7 @@ author_profile: true
 
 # JOURNAL ARTICLES
 
-**Tan, E.**, Troller-Renfree, S., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (in press). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_.[📄](https://osf.io/egb6w/)
+**Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. doi:10.1016/j.dcn.2024.101404 [📄](https://doi.org/10.1016/j.dcn.2024.101404)
 
 Antúnez, M., McSweeney, M., Zeytinoglu, S., **Tan, E.**, Zeanah, C. H., Nelson, C. A., & Fox, N. A. (in press). Exploring background aperiodic EEG activity in the Bucharest Early Intervention Project. _Developmental Psychology_.
 
