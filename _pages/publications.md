@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### JOURNAL ARTICLES
+### Journal Articles
 
 **Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. doi:10.1016/j.dcn.2024.101404 [📄](https://doi.org/10.1016/j.dcn.2024.101404)
 
@@ -43,11 +43,11 @@ Yi, L., **Tan, E.**, Fan, Y., Liu, Y., & Zhou, G. (2014). Autism spectrum disord
 
 **Tan, E.**, Zou, Y., He, J., & Huang, M. (2011). Empathy and subjective well-being: Emotion regulation as a mediator. _Chinese Journal of Clinical Psychology_ [Chinese], 19(5), 672-674.<br /><br />
 
-### BOOK CHAPTERS
+### Book Chapters
 
 Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensitivity. In L. Jensen (Ed.), _The Oxford Handbook of Moral Development_ (pp. 267-287). Oxford, UK: Oxford University Press. [📄](https://academic.oup.com/edited-volume/28145/chapter-abstract/212921528?redirectedFrom=fulltext)<br /><br />
 
-### MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
+### Manuscripts Under Review or in Preparation
 
 **Tan, E.**, Van de Vondervoort, J. W., Dhaliwal, J. , Aknin, L. B., & Hamlin, J. K. (in preparation). Sharing resources with others is emotionally rewarding for toddlers. 
 
