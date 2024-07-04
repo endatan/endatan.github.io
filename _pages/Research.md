@@ -16,7 +16,7 @@ author_profile: true
 
 
 
-### Resting brain activity and cognitive functioning
+### Early brain activity and cognitive functioning
 
 **Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. doi:10.1016/j.dcn.2024.101404 [📄](https://doi.org/10.1016/j.dcn.2024.101404)
 
