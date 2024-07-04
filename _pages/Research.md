@@ -24,7 +24,7 @@ author_profile: true
 
 
 
-### Early individual differences in social responses and their long-term implications
+### Early individual differences in social contexts and their long-term implications
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. doi:10.1111/desc.13427 [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13427)
 
