@@ -17,9 +17,9 @@ author_profile: true
 
 # Resting brain activity and cognitive functioning
 
-**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://authors.elsevier.com/sd/article/S1878-9293(23)00092-0)
-
 **Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. doi:10.1016/j.dcn.2024.101404 [📄](https://doi.org/10.1016/j.dcn.2024.101404)
+
+**Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. doi:10.1016/j.dcn.2023.101287 [📄](https://authors.elsevier.com/sd/article/S1878-9293(23)00092-0)
 
 
 # Early individual differences in social responses and their long-term implications
@@ -29,11 +29,4 @@ author_profile: true
 **Tan, E.**, Mikami, A. Y., Luzhanska, A., & Hamlin, J. K. (2021). The homogeneity and heterogeneity of moral functioning in preschool. _Child Development_, 92(3), 959-975. doi:10.1111/cdev.13458 [📄](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13458)
 
 **Tan, E.**, Mikami, A. Y., & Hamlin, J. K. (2018). Do infant sociomoral evaluation and action studies predict preschool social and behavioral adjustment? _Journal of Experimental Child Psychology_, 176, 39-54. doi:10.1016/j.jecp.2018.07.003 [📄](https://www.sciencedirect.com/science/article/pii/S0022096518300687) <br /><br />
-
-
-
-
-
-
-
 
