@@ -8,7 +8,7 @@ author_profile: true
 
 ### Infants' neurophysiological responses to prosocial and antisocial interactions
 
-**Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. [📄](https://authors.elsevier.com/a/1hZJz51Y-Pttx)
+**Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. [📄](https://doi.org/10.1016/j.jecp.2023.105757)
 
 **Tan, E.**, & Hamlin, J. K. (2022). Infants’ neural responses to helping and hindering scenarios. _Developmental Cognitive Neuroscience_, 54, 101095. [📄](https://www.sciencedirect.com/science/article/pii/S1878929322000391)
 
