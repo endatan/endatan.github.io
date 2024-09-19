@@ -11,6 +11,8 @@ author_profile: true
 
 Antúnez, M., McSweeney, M., Zeytinoglu, S., **Tan, E.**, Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2024). Exploring background aperiodic electroencephalography (EEG) activity in the Bucharest Early Intervention Project. _Developmental Psychology_.[📄](https://doi.org/10.1037/dev0001804)
 
+Fox, N. A., Pérez-Edgar, K., Morales, S., Brito, N. H., Campbell, A. M., Cavanagh, J. F., Gabard-Durnam, L. J., Hudac, C. M., Key, A. P., Larson-Prior, L. J., Pedapati, E. V., Norton, E. S., Reetzke, R., Roberts, T. P., Rutter, T. M., Scott, L. S., Shuffrey, L. C., Antúnez, M., Boylan, M. R., Garner, B. M., Learnard, B., McNair, S., McSweeney, M., Castillo, M. I. N, Norris, J., Nyabingi, O. S., Pini, N., Quinn, A., Stosur, R., **Tan, E.**, Troller-Renfree, S. V., &  Yoder, L. (2024). The development and structure of the HEALthy Brain and Child Development (HBCD) Study EEG protocol. _Developmental Cognitive Neuroscience_, 101447. [📄](https://doi.org/10.1016/j.dcn.2024.101447)
+
 **Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. [📄](https://doi.org/10.1016/j.jecp.2023.105757)
 
 **Tan, E.**, Tang, A., Debnath, R., Humphreys, K. L., Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2023). Resting brain activity in early childhood predicts IQ at 18 years. _Developmental Cognitive Neuroscience_, 63, 101287. [📄](https://doi.org/10.1016/j.dcn.2023.101287)
