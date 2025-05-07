@@ -13,4 +13,4 @@ I’m a psychologist studying early neural and cognitive development, with a par
 
 I’m now a postdoctoral researcher at the University of British Columbia, working with Hee Yeon Im. My current work uses magnetoencephalography (MEG) and machine learning to explore how social information is represented in the brains of both infants and adults. In January 2026, I will be joining the Department of Psychology at the University of Victoria as an Assistant Professor.
 
-Outside of research, I enjoy spending time with family, hiking, biking/rollerblading, listening to music, and dancing Lindy Hop.
+Outside of research, I enjoy spending time with family, hiking, biking, listening to music, and dancing Lindy Hop.
