@@ -7,6 +7,8 @@ author_profile: true
 
 ### Journal Articles
 
+Valadez, E. A., Conte, S., Richards, J. E., Feng, Y., Liuzzi, L., McSweeney, M., **Tan, E.**, Buzzell, G. A., Morales, S., Winkler, A. M., Cardinale, E. M., White, L. K., Pine, D. S., & Fox, N. A. (2025). Integrating Multimodal Neuroimaging of Error Monitoring to Estimate Future Anxiety in Adolescents. _JAMA Network Open_, 8(10), e2539133–e2539133. [📄](https://doi.org/10.1001/jamanetworkopen.2025.39133)
+
 **Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. [📄](https://doi.org/10.1016/j.dcn.2024.101404)
 
 Antúnez, M., McSweeney, M., Zeytinoglu, S., **Tan, E.**, Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2024). Exploring background aperiodic electroencephalography (EEG) activity in the Bucharest Early Intervention Project. _Developmental Psychology_.[📄](https://doi.org/10.1037/dev0001804)
@@ -49,8 +51,3 @@ Yi, L., **Tan, E.**, Fan, Y., Liu, Y., & Zhou, G. (2014). Autism spectrum disord
 
 Hamlin, J. K., & **Tan, E.** (2020). The emergence of moral responses and sensitivity. In L. Jensen (Ed.), _The Oxford Handbook of Moral Development_ (pp. 267-287). Oxford, UK: Oxford University Press. [📄](https://academic.oup.com/edited-volume/28145/chapter-abstract/212921528?redirectedFrom=fulltext)<br /><br />
 
-### Manuscripts Under Review or in Preparation
-
-**Tan, E.**, Van de Vondervoort, J. W., Dhaliwal, J. , Aknin, L. B., & Hamlin, J. K. (in preparation). Sharing resources with others is emotionally rewarding for toddlers. 
-
-Zeytinoglu, S., Buzzell, G., Morales, S., Valadez, E., **Tan, E.**, McSweeney, M., Degnan, K., Chronis-Tuscano, A., Hendeson, H., Pine, D. S., & Fox, N. A. (under review). A neurobehavioral mechanism linking parent personality and early temperament with social anxiety in young adulthood.
