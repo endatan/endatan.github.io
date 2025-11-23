@@ -9,6 +9,8 @@ author_profile: true
 
 Valadez, E. A., Conte, S., Richards, J. E., Feng, Y., Liuzzi, L., McSweeney, M., **Tan, E.**, Buzzell, G. A., Morales, S., Winkler, A. M., Cardinale, E. M., White, L. K., Pine, D. S., & Fox, N. A. (2025). Integrating Multimodal Neuroimaging of Error Monitoring to Estimate Future Anxiety in Adolescents. _JAMA Network Open_, 8(10), e2539133–e2539133. [📄](https://doi.org/10.1001/jamanetworkopen.2025.39133)
 
+Wang, Y., Colomer, M., Hwang, H. G., **Tan, E**., Fox, N. A., & Woodward, A. (2026). Language exposure predicts infants’ neural processing of others’ actions based on language group. _Developmental Cognitive Neuroscience_, 77, 101645. [📄](https://doi.org/10.1016/j.dcn.2025.101645)
+
 **Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. [📄](https://doi.org/10.1016/j.dcn.2024.101404)
 
 Antúnez, M., McSweeney, M., Zeytinoglu, S., **Tan, E.**, Zeanah, C. H., Nelson, C. A., & Fox, N. A. (2024). Exploring background aperiodic electroencephalography (EEG) activity in the Bucharest Early Intervention Project. _Developmental Psychology_.[📄](https://doi.org/10.1037/dev0001804)
