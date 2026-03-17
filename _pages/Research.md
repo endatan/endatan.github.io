@@ -5,8 +5,10 @@ permalink: /Research/
 author_profile: true
 ---
 
+### EARLY SOCIAL EVALUATION AND PROSOCIAL BEHAVIOR
+Examines how infants and young children evaluate others’ actions and engage in prosocial behavior, using behavioral, physiological, and neural measures.
 
-### Infants' neurophysiological responses to prosocial and antisocial interactions
+**Tan, E.**, Van de Vondervoort, J. W., Dhaliwal, J., Aknin, L. B., & Hamlin, J. K. (2026). Toddlers are happier giving to others than to themselves. _Developmental Science_, 29(3), e70171. [📄](https://doi.org/10.1111/desc.70171) 
 
 **Tan, E.**, & Hamlin, J. K. (2024). Toddlers’ affective responses to sociomoral scenes: Insights from physiological measures. _Journal of Experimental Child Psychology_, 237, 105757. [📄](https://doi.org/10.1016/j.jecp.2023.105757)
 
@@ -16,7 +18,8 @@ author_profile: true
 
 
 
-### Early brain activity and cognitive functioning
+### EARLY BRAIN ACTIVITY AND COGNITIVE FUNCTIONING
+Examines how early brain activity is associated with cognitive development and predicts later cognitive outcomes.
 
 **Tan, E.**, Troller-Renfree, S. V., Morales, S., Buzzell, G. A., McSweeney, M., Antúnez, M., & Fox, N. A. (2024). Theta activity and cognitive functioning: Integrating evidence from resting-state and task-related developmental electroencephalography (EEG) research. _Developmental Cognitive Neuroscience_, 67, 101404. [📄](https://doi.org/10.1016/j.dcn.2024.101404)
 
@@ -24,7 +27,8 @@ author_profile: true
 
 
 
-### Early individual differences in social contexts and their long-term implications
+### EARLY INDIVIDUAL DIFFERENCES IN SOCIAL CONTEXTS AND DEVELOPMENTAL OUTCOMES
+Examines early individual differences in socioemotional functioning and their links to developmental outcomes.
 
 **Tan, E.**, Zeytinoglu, S., Morales, S., Buzzell, G. A., Almas, A. N., Degnan, K. A., Chronis-Tuscano, A., Henderson, H., Pine, D. S., & Fox, N. A. (2023). Social versus non-social behavioral inhibition: Differential prediction from early childhood of long-term psychosocial outcomes. _Developmental Science_, e13427. [📄](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.13427)
 
