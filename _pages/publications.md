@@ -7,6 +7,8 @@ author_profile: true
 
 ### Journal Articles
 
+**Tan, E.**, Van de Vondervoort, J. W., Dhaliwal, J., Aknin, L. B., & Hamlin, J. K. (2026). Toddlers are happier giving to others than to themselves. _Developmental Science_, 29(3), e70171. [📄](https://doi.org/10.1111/desc.70171) 
+
 Wang, Y., Colomer, M., Hwang, H. G., **Tan, E**., Fox, N. A., & Woodward, A. (2026). Language exposure predicts infants’ neural processing of others’ actions based on language group. _Developmental Cognitive Neuroscience_, 77, 101645. [📄](https://doi.org/10.1016/j.dcn.2025.101645)
 
 Valadez, E. A., Conte, S., Richards, J. E., Feng, Y., Liuzzi, L., McSweeney, M., **Tan, E.**, Buzzell, G. A., Morales, S., Winkler, A. M., Cardinale, E. M., White, L. K., Pine, D. S., & Fox, N. A. (2025). Integrating Multimodal Neuroimaging of Error Monitoring to Estimate Future Anxiety in Adolescents. _JAMA Network Open_, 8(10), e2539133–e2539133. [📄](https://doi.org/10.1001/jamanetworkopen.2025.39133)
