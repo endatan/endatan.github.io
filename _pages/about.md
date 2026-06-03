@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a psychologist interested in the “how” and “why” questions of psychology. My research aims to uncover how basic aspects of the human mind give rise to the complex thoughts, emotions, and behaviors we see in everyday life.
+I am a psychologist interested in the “how” and “why” questions. My research aims to uncover how basic aspects of the human mind give rise to the complex thoughts, emotions, and behaviors we see in everyday life.
 
 I earned my PhD in 2021 from the University of British Columbia (UBC), where I worked with [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) to study the neurophysiological mechanisms underlying infants’ responses to social interactions. I then completed a postdoctoral fellowship with [Nathan Fox](https://nacs.umd.edu/facultyprofile/fox/nathan) at the University of Maryland (UMD), investigating the developmental roots of social anxiety and the links between early brain activity and cognitive development. I subsequently returned to UBC as a postdoctoral researcher with [Hee Yeon Im](https://psych.ubc.ca/profile/hee-yeon-im/), using magnetoencephalography (MEG) and decoding methods to explore how social information is represented in the brains of infants and adults. I am now an Assistant Professor in the [Department of Psychology](https://www.uvic.ca/socialsciences/psychology/index.php) at the University of Victoria (UVic).
 
